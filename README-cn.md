@@ -3,6 +3,7 @@
 [![npm version](https://img.shields.io/npm/v/gogocode.svg)](https://www.npmjs.com/package/gogocode) [![license](https://img.shields.io/npm/l/gogocode.svg)](LICENSE)
 
 (在这里进行git push的练习)
+（在这里进行git pull的练习，在网页上修改然后再回到本地）
 ## GoGoCode 是什么？
 
 [English version of README](README.md)
